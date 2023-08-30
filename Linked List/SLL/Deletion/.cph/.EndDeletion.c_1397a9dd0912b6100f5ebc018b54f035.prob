@@ -1,0 +1,1 @@
+{"name":"Local: EndDeletion","url":"d:\\C\\Linked List\\SLL\\Deletion\\EndDeletion.c","tests":[{"id":1693332252179,"input":"6 \n2 3 45 3 345 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C\\Linked List\\SLL\\Deletion\\EndDeletion.c","group":"local","local":true}

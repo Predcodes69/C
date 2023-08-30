@@ -1,0 +1,1 @@
+{"name":"Local: Middle","url":"d:\\C\\Linked List\\DLL\\Insertion\\Middle.c","tests":[{"id":1693350652575,"input":"5\n1 2 3 5 6\n4 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C\\Linked List\\DLL\\Insertion\\Middle.c","group":"local","local":true}
